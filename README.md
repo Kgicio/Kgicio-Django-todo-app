@@ -7,8 +7,8 @@ add a task-
 url- 'localhost:8000/api/task-create/'
 In the box given enter the details of the 5 fields title,description,created,due_date,status in json format one by one.
 read-
-url- 'localhost:8000/api/task-list/' to view all the tasks.
+url- 'localhost:8000/api/task-list' to view all the tasks.
 read a single task
-url- 'localhost:8000/api/task-detail/<id>/'.
+url- 'localhost:8000/api/task-detail/<id>'.
 delete a task-
-url- 'localhost:8000/api/task-delete/<id>/' to delete a task according to id.
+url- 'localhost:8000/api/task-delete/<id>' to delete a task according to id.
