@@ -12,3 +12,5 @@ read a single task
 url- 'localhost:8000/api/task-detail/<id>'.
 delete a task-
 url- 'localhost:8000/api/task-delete/<id>' to delete a task according to id.
+update a task-
+url- 'localhost:8000/api/task-update/<id>' to update a task according to id.
