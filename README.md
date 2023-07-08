@@ -1,4 +1,4 @@
-# Kgicio-Django-todo-app-for-Algo-bulls
+# Kgicio-Django-todo-app
 Created a todo application where we can add tasks,read,update and delete tasks according to their id. Their are five fields mainly(all the details in models.py file)-
 title,description,the task creation time which cannot be edited,the due date of the task which can be edited and the status of the task.We can fire urls to get our work done.
 log in-
